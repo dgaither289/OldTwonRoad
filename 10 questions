@@ -1,0 +1,10 @@
+
+you would type cd food
+you would  type cd Poe, EdgarAllen
+you type "ls" then enter and it will list everything in side that directory
+the cmd is pwd 
+mkdir photographs will make a new folder 
+to nav to the new directory type, cd photographs, touch sunrise.jpg , 
+to move the file back one directory type, mv sunrise.jpg
+you  will need to move back directory by, using, cd ..,cd ..(twice). this should put us back into directorys from there type, cd like , cd monkys, Then to open .zshrc you will use the start cmd.
+use, cd .. to go back to the like folder. then type rmdir bananas.html 
